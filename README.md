@@ -14,13 +14,13 @@ $> ./fractol [Mandelbrot | Julia | Tricorn | Burning_ship | Mandbat]
 ## Screenshots
 
 ###### Demo 1:
-<img src="demo1" width="500" height="500">
+<img src="demo1.png" width="500" height="500">
 
 ###### Demo 2:
-<img src="demo2" width="500" height="500">
+<img src="demo2.png" width="500" height="500">
 
 ###### Demo 3:
-<img src="demo3" width="500" height="500">
+<img src="demo3.png" width="500" height="500">
 
 ## Contact me
 
